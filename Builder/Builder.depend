@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1536031459 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\main.cpp
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	"DellBuilderPC.h"
+	"MSIBuilderPC.h"
+	"MakePC.h"
+	<iostream>
+
+1536032308 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\src\pc.cpp
+	"PC.h"
+	<string>
+	<memory>
+	<iostream>
+
+1535954712 c:\users\roygt\onedrive\escritorio\c++ 2018\builder\include\pc.h
+	<string>
+	<iostream>
+
+1535957302 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\src\pc_builder.cpp
+	"PC_Builder.h"
+	"PC.h"
+	<string>
+	<memory>
+	<iostream>
+
+1536032246 c:\users\roygt\onedrive\escritorio\c++ 2018\builder\include\pc_builder.h
+	<string>
+	<memory>
+	"PC.h"
+	<iostream>
+
+1535962185 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\src\dellbuilderpc.cpp
+	"DellBuilderPC.h"
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	<iostream>
+
+1536032246 c:\users\roygt\onedrive\escritorio\c++ 2018\builder\include\dellbuilderpc.h
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	<iostream>
+
+1535962266 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\src\msibuilderpc.cpp
+	"MSIBuilderPC.h"
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	<iostream>
+
+1536032246 c:\users\roygt\onedrive\escritorio\c++ 2018\builder\include\msibuilderpc.h
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	<iostream>
+
+1535961276 source:c:\users\roygt\onedrive\escritorio\c++ 2018\builder\src\makepc.cpp
+	"MakePC.h"
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	"DellBuilderPC.h"
+	"MSIBuilderPC.h"
+	<iostream>
+
+1535961895 c:\users\roygt\onedrive\escritorio\c++ 2018\builder\include\makepc.h
+	<string>
+	<memory>
+	"PC.h"
+	"PC_Builder.h"
+	"DellBuilderPC.h"
+	"MSIBuilderPC.h"
+	<iostream>
+
